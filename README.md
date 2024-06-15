@@ -18,14 +18,14 @@ In this repository you can find the next files:
 
 #### 1. `01_Solution_assignment_VAE_replay_CL.ipynb` file
 
-> This file contains the solution to all the five questions proposed. You can OPEN IN COLAB the code to run it easily (make sure to set the ROOT path parameter for it to run smoothly).
+> This file contains the solution to all the five questions proposed. You can [![OPEN IN COLAB](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sapienza-University-Rome/Deep_generative_view_continual_learn/blob/main/01_Solution_assignment_VAE_replay_CL.ipynb) the code to run it easily (make sure to set the ROOT path parameter for it to run smoothly).
 
 #### 2. `Deep generative view on continual learning - assignment report.pdf` file
 > This file contains the report regarding the solution of the assignment.
 
 #### 3. `02_vanilla_replay_CL.ipynb.ipynb` file
 
-> This file contains the vanilla replay implementation. You can OPEN IN COLAB the code to run it easily (make sure to set the ROOT path parameter for it to run smoothly).
+> This file contains the vanilla replay implementation. You can [![OPEN IN COLAB](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sapienza-University-Rome/Deep_generative_view_continual_learn/blob/main/02_vanilla_replay_CL.ipynb) the code to run it easily (make sure to set the ROOT path parameter for it to run smoothly).
 
 
 <div style="text-align: justify ">We hope the previous information was clear and useful to navigate over the repository and understand our solutions. </div>
