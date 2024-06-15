@@ -1,4 +1,4 @@
-<h1><center>DGVCL course - Assignment - READ ME</center></h1> 
+<h1><center>Deep Generative View on Contonual Learning course - Assignment </center></h1> 
 <center><img src="https://media.giphy.com/media/8dYmJ6Buo3lYY/giphy.gif?cid=790b76110t66px3724psu022ws1uo1boh9mmzkd7jwx5fsfp&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Drawing" style="width: 200px;"/></center>
 
 ##### **Authors:** Daniel Mauricio Jimenez Gutierrez, Francesco Verdini, Marco Ferilli, Gianluca De Carlo and Gaetano Saurio
