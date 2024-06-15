@@ -7,7 +7,7 @@
 ##### **La Sapienza University of Rome**
 _____
 
-<div style="text-align: justify "> Through this document, you can find and understan the report and code employed in the solution of the assignment. 
+<div style="text-align: justify "> Through this document, you can find and understand the report and code employed in the solution of the assignment. 
  </div>
 
 ## Repository description
@@ -16,7 +16,7 @@ In this repository you can find the next files:
 
 
 
-#### 1. `01_Solution_assignment_GAN_replay_CL.ipynb` file
+#### 1. `01_Solution_assignment_VAE_replay_CL.ipynb` file
 
 > This file contains the solution to all the five questions proposed. You can OPEN IN COLAB the code to run it easily (make sure to set the ROOT path parameter for it to run smoothly).
 
